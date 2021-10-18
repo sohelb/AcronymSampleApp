@@ -1,0 +1,75 @@
+[
+    {
+        "sf": "ABB",
+        "lfs": [
+            {
+                "lf": "acid-base balance",
+                "freq": 20,
+                "since": 1976,
+                "vars": [
+                    {
+                        "lf": "acid-base balance",
+                        "freq": 18,
+                        "since": 1976
+                    },
+                    {
+                        "lf": "Acid base balance",
+                        "freq": 1,
+                        "since": 1998
+                    },
+                    {
+                        "lf": "acid base balance",
+                        "freq": 1,
+                        "since": 1992
+                    }
+                ]
+            },
+            {
+                "lf": "anorganic bovine bone",
+                "freq": 6,
+                "since": 1999,
+                "vars": [
+                    {
+                        "lf": "Anorganic bovine bone",
+                        "freq": 3,
+                        "since": 1999
+                    },
+                    {
+                        "lf": "anorganic bovine bone",
+                        "freq": 3,
+                        "since": 2006
+                    }
+                ]
+            },
+            {
+                "lf": "air-blood barrier",
+                "freq": 6,
+                "since": 1980,
+                "vars": [
+                    {
+                        "lf": "air-blood barrier",
+                        "freq": 5,
+                        "since": 1980
+                    },
+                    {
+                        "lf": "air blood barrier",
+                        "freq": 1,
+                        "since": 1989
+                    }
+                ]
+            },
+            {
+                "lf": "The Hallpike alternate binaural bithermal",
+                "freq": 2,
+                "since": 1984,
+                "vars": [
+                    {
+                        "lf": "The Hallpike alternate binaural bithermal",
+                        "freq": 2,
+                        "since": 1984
+                    }
+                ]
+            }
+        ]
+    }
+]
